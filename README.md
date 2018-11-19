@@ -14,6 +14,7 @@ Keras - well documented codes for MLCC session on 19th November, 2018 at CSIR-NI
 
 ## CNN Explanation
 - Video
+
 [![LINK TO YOUTUBE](https://img.youtube.com/vi/FmpDIaiMIeA/0.jpg)](https://www.youtube.com/watch?v=FmpDIaiMIeA)
 
 - Slides
